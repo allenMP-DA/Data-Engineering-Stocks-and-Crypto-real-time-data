@@ -3,8 +3,8 @@ import json
 import requests
 from kafka import KafkaProducer
 
-FB_API_KEY = "d8bap89r01qhrj7qsc60d8bap89r01qhrj7qsc6g"
-CG_API_KEY = "CG-axK27LhxyfukiA4Qxg63Cbfs"
+FB_API_KEY = "d8bap89r01qhrj7qsc60d8bap89r01qhrj------"
+CG_API_KEY = "CG-axK27LhxyfukiA4Qxg------"
 FINNHUB_URL = "https://finnhub.io/api/v1/quote"
 COINGECKO_URL = "https://api.coingecko.com/api/v3/simple/price"
 SYMBOLS = ["AAPL", "MSFT", "TSLA", "GOOGL", "AMZN"]
