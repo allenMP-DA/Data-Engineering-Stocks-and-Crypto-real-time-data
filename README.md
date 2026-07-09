@@ -1,7 +1,7 @@
 # 📈 Real-Time Stocks & Cryptocurrency Data Engineering Pipeline
 
 <p align="center">
-  <img src="architecture.png" width="900">
+  <img src="images\architecture.png" width="900">
 </p>
 
 ## 📖 Project Overview
@@ -134,7 +134,10 @@ Gold layer provides:
 # 📊 Power BI Dashboard
 
 <p align="center">
-  <img src="images/dashboard.png" width="900">
+  <img src="images\stocks_dashboard.png" width="900">
+</p>
+<p align="center">
+  <img src="images\crypto_dashboard.png" width="900">
 </p>
 
 Dashboard includes:
